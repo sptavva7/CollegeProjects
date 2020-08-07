@@ -1,2 +1,2 @@
-# CollegeProjects
-Few projects that I worked on during my Bachelors Degree.
+# Pizza-Delivery-System
+A basic Data Structures project.
